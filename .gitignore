@@ -6,6 +6,7 @@
 .env.production.local
 
 # Dependencies
+node_modules/
 frontend/node_modules/
 
 # Python virtual environment
@@ -162,3 +163,7 @@ tramp
 # Local configuration files
 config.local.json
 settings.local.json
+
+# Design files
+.figma/
+Front-end app flow .pdf
